@@ -9,7 +9,7 @@ Python 3 satellite orbit explorer Gnss Academy challenges SATELLITE ORBIT EXPLOR
 
 A Python notebook (Google Colab) that loads real CelesTrak GP orbital data, propagates four satellites over 24 hours with a two-body Kepler model, compares their orbits and exports the results for Google Earth.
 
-**Notebook:** [Colab link]
+**Notebook:** https://colab.research.google.com/drive/1r-nq9RP0urmhS9W9m3DzuoHqdDzxXxa9?usp=sharing
 
 ## What I built
 
